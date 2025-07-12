@@ -12,3 +12,5 @@ Print Palette can work in two ways, via a post processing script directly in the
 
 # Getting Started
 
+Setting up PrintPalette consists of the WLED setup, Slicer setup and/or App setup. Follow the guides below to set each step up.
+
