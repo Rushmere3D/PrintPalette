@@ -1,3 +1,5 @@
+# WLED Set up
+
 The first thing you need to do, to use PrintPalette is to set up your WLED device. I use a simple D1 Mini from AliExpress which is less than £2, [WeMos D1 Mini](https://s.click.aliexpress.com/e/_oBwEcnE) .
 
 Getting WLED on the device is simple and I suggest using the WLED web installer by following “Flashing method 1” from [WLED website](https://kno.wled.ge/basics/install-binary/).
