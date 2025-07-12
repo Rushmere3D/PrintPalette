@@ -14,3 +14,4 @@ Print Palette can work in two ways, via a post processing script directly in the
 
 Setting up PrintPalette consists of the WLED setup, Slicer setup and/or App setup. Follow the guides below to set each step up.
 
+## [WLED Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/WLED_Setup.md#wled-set-up)
