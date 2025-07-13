@@ -22,7 +22,7 @@ The next button is the important one "Select GCode File", clicking this will ope
 
 Once you click open in the file browser, the PrintPalette App will automatically extract the "filament" colours and send them to the LEDs. It will first clear the LEDs and then send what it's taken from the selected .gcode file. It's pretty quick so although I've included a progress bar the app will quickly display a confirmation box and you will see the colours just send to the LEDs are also displayed in the app for confirmation.
 
-{Screenshot}
+https://github.com/user-attachments/assets/0924a035-e0ee-4742-bf9a-9e65bba83c94
 
 Closing the app will update the Config.txt with the IP address and theme choice ready for next time you open it.
 
