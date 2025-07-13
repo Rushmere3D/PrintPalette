@@ -50,3 +50,7 @@ https://github.com/user-attachments/assets/7696560f-d18c-44b6-b875-31b5234a0a1f
 
 
 Changing a colour or other parameter in Orca resuting in needing to slicer again and will clear the LEDs and send the new colours.
+
+# Acknowledgments
+
+Big thanks to my friend Richard for his help with the first PrintPalette script, Although I knew what and how I wanted it to work I didn't know how to put this all together. Thanks
