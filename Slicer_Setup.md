@@ -34,9 +34,9 @@ You then place both these file paths in the Post-Processing Scripts box found un
 
 Now that the script is ready to go, you filament set up is next.
 
-So and interesting thing here is that the colour we can easly change in Orca by clicking the numbered coloured box, is in fact the Extruder (tool) colour and this is the data the script captures.
+So an interesting thing here is that the colour we can easly change in Orca by clicking the numbered coloured box, is in fact the Extruder (tool) colour and not the filament colour (as far as the slicer is concerned) and this is the data the script captures.
 
-It's important to only have the number of colours displayed that your LEDs are set up for, otherwise it will overwrite the last "Tool" segment on the LEDs.
+It's important to only have the number of colours displayed that your LED segments are set up for, otherwise it will overwrite the last "Tool" segment on the LEDs.
 
 So here is my Bambu Lab P1S with single AMS for example.
 
