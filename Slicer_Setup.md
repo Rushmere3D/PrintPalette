@@ -10,7 +10,7 @@ To be able to run the PrintPalette script you will need to have Python installed
 
 ## Editing the script
 
-Firstly go to the Slicer folder in the repo and download the .py file you your computer.
+Firstly go to the [Slicer folder](https://github.com/Rushmere3D/PrintPalette/tree/main/Slicer) in the repo and download the .py file you your computer.
 
 The only edit you need to make to the script is changing the wled IP address "wled_ip_address = '###.###.###.###'", I recommend opening the "PrintPalette_Slicer.py" file in [Notepad++](https://notepad-plus-plus.org/).
 
@@ -46,4 +46,6 @@ So here is my Bambu Lab P1S with single AMS for example.
 
 So with all this done and assuming you have the LEDs connected to your WLED device and it is powered up, slicing a file will result in the "filament" colours being sent to the WLED device and displayed on the LED stip.
 
-Changing a colour or other parameter in Orca resuting in needing to slicer and will clear the LEDs and send the new colours.
+{Screenshot}
+
+Changing a colour or other parameter in Orca resuting in needing to slicer again and will clear the LEDs and send the new colours.
