@@ -46,6 +46,7 @@ So here is my Bambu Lab P1S with single AMS for example.
 
 So with all this done and assuming you have the LEDs connected to your WLED device and it is powered up, slicing a file will result in the "filament" colours being sent to the WLED device and displayed on the LED stip.
 
-{Screenshot}
+https://github.com/user-attachments/assets/7696560f-d18c-44b6-b875-31b5234a0a1f
+
 
 Changing a colour or other parameter in Orca resuting in needing to slicer again and will clear the LEDs and send the new colours.
