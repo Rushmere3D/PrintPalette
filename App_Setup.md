@@ -24,4 +24,6 @@ Once you click open in the file browser, the PrintPalette App will automatically
 
 {Screenshot}
 
-And that's it, simple.
+Closing the app will update the Config.txt with the IP address and theme choice ready for next time you open it.
+
+And that's it, simple. 
