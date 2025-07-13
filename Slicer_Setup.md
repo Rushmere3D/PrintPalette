@@ -6,7 +6,7 @@ However I swapped to Orca Slicer for another project and when I tested PrintPale
 
 ## Installing Python
 
-To be able to run the PrintPalette script you will need to have Python installed on your compputer (If you use the PrintPalette App, this is not required). I suggest heading to [Python.org](https://www.python.org/) to find the installer for your OS.
+To be able to run the PrintPalette script you will need to have Python installed on your computer (If you use the PrintPalette App, this is not required). I suggest heading to [Python.org](https://www.python.org/) to find the installer for your OS.
 
 ## Editing the script
 
