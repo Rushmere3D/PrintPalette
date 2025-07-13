@@ -20,5 +20,8 @@ The interface is simple and only have 2 buttons, "Clear LED Slots" does exactly 
 
 The next button is the important one "Select GCode File", clicking this will open a file browser allowing you to select a .gcode file you have pre painted for multi colour printing.
 
-Once you click open in the file browser, the PrintPalette App will automatically extract the "filament" colours and send them to the LEDs. It will first clear the LEDs and then send what it's taken from the selected .gcode file. It's pretty quick so although I've included a progress bar this quickly display a confirmation box and you will see the colour just send to the LEDs are also displayed in the app for confirmation.
+Once you click open in the file browser, the PrintPalette App will automatically extract the "filament" colours and send them to the LEDs. It will first clear the LEDs and then send what it's taken from the selected .gcode file. It's pretty quick so although I've included a progress bar the app will quickly display a confirmation box and you will see the colours just send to the LEDs are also displayed in the app for confirmation.
 
+{Screenshot}
+
+And that's it, simple.
