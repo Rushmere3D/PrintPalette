@@ -22,6 +22,6 @@ Setting up PrintPalette consists of the WLED setup, Slicer setup and/or App setu
 
 # STLs
 
-I have deliberately not included any 3D print files because everyone will likely want to mount the LEDs differently. I am working on some of my own mount and will upload them once fully tested.
+I have deliberately not included any 3D print files because everyone will likely want to mount the LEDs differently. I am working on some of my own mounts and will upload them once fully tested.
 
 However please feel free to create mounts and upload them to your chosen 3D print file repo and I will happily include links here.
