@@ -16,6 +16,6 @@ Setting up PrintPalette consists of the WLED setup, Slicer setup and/or App setu
 
 ## [WLED Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/WLED_Setup.md#wled-set-up)
 
-## [Slicer Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/WLED_Setup.md#slicer-set-up)
+## [Slicer Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/Slicer_Setup.md#slicer-set-up)
 
-## [App Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/WLED_Setup.md#app-set-up)
+## [App Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/App_Setup.md#app-set-up)
