@@ -1,5 +1,7 @@
 # Slicer Set up
 
+## It seems this doesn't work as expected on non Bambu Lab profiles, I'm investigating why this is but I believe it's a slicer issue not a script issue.
+
 Setting up the slicer to work with PrintPalette is really simple, firstly I recommand using Orca Slicer. This is becasue of the way it processes, post processing scripts, orignally I was testing with PrusaSlicer but  PrusaSlicer runs these when you save a .gcode file and the issue I had was that this need to be done twice for the script to fully run.
 
 However I swapped to Orca Slicer for another project and when I tested PrintPalette it worked first time excactly how I wanted. I think this is because Orca processes the post processing script when you slice the file, as such at the end of the slicing process, it runs the script without issue.
