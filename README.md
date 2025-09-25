@@ -24,13 +24,13 @@ PrintPalette can work in two ways, via a post processing script directly in the 
 
 Setting up PrintPalette consists of the WLED setup, Slicer setup and/or App setup. Follow the guides below to set each step up.
 
-## [WLED Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/WLED_Setup.md#wled-set-up)
+## [WLED Setup](https://github.com/Rushmere3D/PrintPalette/blob/main/WLED_Setup.md#wled-set-up)
 
-## [Slicer Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/Slicer_Setup.md#slicer-set-up)
+## [Slicer Setup](https://github.com/Rushmere3D/PrintPalette/blob/main/Slicer_Setup.md#slicer-set-up)
 
-## [App Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/App_Setup.md#app-set-up)
+## [App Setup](https://github.com/Rushmere3D/PrintPalette/blob/main/App_Setup.md#app-set-up)
 
-## [Watcher Script Sep up](https://github.com/Rushmere3D/PrintPalette/blob/main/WatcherScript.md)
+## [Watcher Script Sepup](https://github.com/Rushmere3D/PrintPalette/blob/main/WatcherScript.md)
 
 # STLs?
 
