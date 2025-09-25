@@ -2,6 +2,16 @@
 
 <img width="512" height="512" alt="PrintPaletteLogo" src="https://github.com/user-attachments/assets/be7c37ad-a735-47a8-87ea-685d6eb9c67c" />
 
+## V1.0 Release - Inital Release
+
+My LED side project.
+
+## V1.1 Release - Added Watcher Script
+
+Because the way the Slicers are handling the Post Processing script for non Bambu Lab printers, I have create a script which get made into a .exe to watch selected folders for new .gcode, this then runs the script when a new file is found. It can be set up for multi printers and WLED IP addresses.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The purpose of PrintPalette was to provide a simple filament colour indicator for multi-tool 3D printers, 3D printer add-ons such as the Prusa MMU, Bambu Lab AMS, community add-ons like the ERCF, Box Turtle and others.
 
 The intention is that, if you don't preload your printer or add-on before painting and slicing your chosen model, then using PrintPalette will aid in identifying which colour filament needs to be loaded in a specific tool/lane/channel etc
@@ -9,7 +19,6 @@ The intention is that, if you don't preload your printer or add-on before painti
 It is not limited by printer or add-on firmware and only requires a WLED device and RGB LEDs. Although additional functions can be used when connected to a Moonraker enabled printer (more information coming soon).
 
 PrintPalette can work in two ways, via a post processing script directly in the slicer (Orca preferred) or via a standalone windows app. PrintPalette then sends commands to a device running WLED such as an [WeMos D1 Mini ESP8266](https://s.click.aliexpress.com/e/_oBwEcnE) with a [strip of RGB LEDs](https://s.click.aliexpress.com/e/_ooGWccU) attached to display the filament colour that needs to be loaded into its corresponding tool.
-
 
 # Getting Started
 
