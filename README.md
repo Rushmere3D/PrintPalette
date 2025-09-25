@@ -21,6 +21,8 @@ Setting up PrintPalette consists of the WLED setup, Slicer setup and/or App setu
 
 ## [App Set up](https://github.com/Rushmere3D/PrintPalette/blob/main/App_Setup.md#app-set-up)
 
+## [Watcher Script Sep up](https://github.com/Rushmere3D/PrintPalette/blob/main/WatcherScript.md)
+
 # STLs?
 
 I have deliberately not included any 3D print files because everyone will likely want to mount the LEDs differently. I am working on some of my own mounts and will upload them once fully tested.
