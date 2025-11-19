@@ -5,4 +5,4 @@ These are my modified Lane Control files, that I use for PrintPalette. Print the
 
 This modification allows the RGB button LED's to attach to the back of the skirt insert, I have used a small amount of hotglue as strain relief for the wires.
 
-Original Lane Control files can be found in the ArmoredTurtle 3D discord usermods section.
+Thanks to trev1ak & hartk1213 for their files which helped me create this mod, original Lane Control files can be found in the ArmoredTurtle 3D discord usermods section and the LED carrier is from the Anthead toolhead github https://github.com/PrintersForAnts/AntHead/tree/main/STLs/LEDs.
